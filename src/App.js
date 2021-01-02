@@ -1,5 +1,6 @@
 import React from 'react'
 import './App.css';
+import Readlog from './components/Readlog'
 
 function App() {
   return (

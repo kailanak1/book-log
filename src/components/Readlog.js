@@ -1,10 +1,11 @@
 import React from 'react';
-
+import Form from './Form'
 
 
 class Readlog extends React.Component{
     constructor(){
-        state={
+        super()
+        this.state={
 
         }
     }
@@ -12,7 +13,8 @@ class Readlog extends React.Component{
     render(){
         return(
             <div>
-
+                <h1>How long will my TBR take?</h1>
+                <Form/>
             </div>
         )
     }
