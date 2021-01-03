@@ -1,3 +1,18 @@
+# Read Me 
+
+This tool will calculate how long it'll take to get through your TBR list. 
+
+## Technologies Used 
+- React 
+- styled-components 
+
+## Status 
+
+Under Construction 🔨
+
+## Author 
+Kailana Kahawaii
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
